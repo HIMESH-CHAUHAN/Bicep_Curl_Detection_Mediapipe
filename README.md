@@ -1,4 +1,3 @@
-````md
 # Bicep Curl Detection (MediaPipe + OpenCV)
 
 A real-time **bicep curl rep counter** using a webcam feed. This project uses **MediaPipe Pose** to detect body landmarks, computes the **elbow angle** (shoulder–elbow–wrist), and counts repetitions based on **Up/Down** stages.
