@@ -40,3 +40,8 @@ Install dependencies:
 
 ```bash
 pip install mediapipe opencv-python numpy
+
+## Run the project
+
+```bash
+python bicep_curl.py
