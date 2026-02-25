@@ -116,4 +116,3 @@ mp_pose.Pose(min_detection_confidence=0.5, min_tracking_confidence=0.5)
 
 ## Reference
 - MediaPipe Pose documentation: https://developers.google.com/mediapipe
-```
